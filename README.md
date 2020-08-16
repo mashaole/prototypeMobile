@@ -18,4 +18,5 @@
   
  # Devices Location
   Device Location Meta on Map
+  
  ![Device Location](https://github.com/mashaole/prototypeMobile/blob/master/mobile%20map.png)
