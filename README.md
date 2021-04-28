@@ -1,5 +1,5 @@
 # prototypeMobile
- Prototype react native mobile app 
+ Prototype react native mobile app built using react native
  
  # Device List
   List of iot devices you have connected to platform
